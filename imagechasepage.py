@@ -78,7 +78,7 @@ def to_excel(df):
     return output
 
 # Streamlit interface setup
-st.title('CSV File Processor for Collision Repair Data')
+st.title('Image Chasing Report Generator')
 
 
 with st.expander("How do I run the report?"):
